@@ -1,3 +1,4 @@
-# mes variables 
-
+#USE_SECTIONS
+[MonProjetTest].[TestSNW].[MappingTask1]
+[Global]
 $$filtervalue=change3
